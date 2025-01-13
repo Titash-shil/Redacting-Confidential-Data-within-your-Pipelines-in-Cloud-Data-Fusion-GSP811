@@ -11,9 +11,9 @@
 ```
 curl -LO raw.githubusercontent.com/Titash-shil/Redacting-Confidential-Data-within-your-Pipelines-in-Cloud-Data-Fusion-GSP811/refs/heads/main/qwiklab_explorers.gsp811.sh
 
-sudo chmod +x qwiklab_explorers_ts.sh
+sudo chmod +x qwiklab_explorers.gsp811.sh
 
-./qwiklab_explorers_ts.sh
+./qwiklab_explorers.gsp811.sh
 ```
 
 ---
